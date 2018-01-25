@@ -1,0 +1,3 @@
+view hello messages:
+  title: 'hello message'
+  description: 'new hello permission'

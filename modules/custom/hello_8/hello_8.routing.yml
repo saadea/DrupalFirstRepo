@@ -1,0 +1,7 @@
+hello_8_page:
+  path: '/example'
+  defaults:
+    _controller: 'Drupal\hello_8\Controller\Hello8Controller::pageOutput'
+    _title: 'Hello World'
+  requirements:
+    _permission: 'view hello messages'

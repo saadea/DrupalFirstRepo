@@ -1,0 +1,8 @@
+hello_8_page:
+  title: 'hello'
+  description: 'A item isn tools menu'
+  route_name: hello_8_page
+  menu_name: main
+  weight: 100
+
+
